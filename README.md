@@ -17,7 +17,7 @@ La solución representa una **aplicación web simple**, orientada a mejorar la e
 ## 🌐 Demo en línea
 El prototipo se encuentra desplegado y disponible públicamente en el siguiente enlace:
 
-👉 **https://fly.io/apps/bike-orange-flask**
+👉 **https://bike-orange-flask.fly.dev**
 
 ## 🚀 Ejecución local
 Requisitos:
